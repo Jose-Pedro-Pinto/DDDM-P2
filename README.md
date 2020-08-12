@@ -2,3 +2,5 @@
 Second project of DDDM (Data driven decision making)<br>
 Objective:<br>
 Solve a machine learning problem in finance (loans and defaults) using interpretable ML tools (Interpret community).<br>
+Note:<br>
+Data unavailable due to file size constraints.<br>
